@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
  *    then solves the maze and outputs the result.
  *
  */
-public class MazeDriver {
+public class MazeTester {
 	@org.junit.Test
 	public void maze2x2() {
 		System.out.println("\n\n------- 1x1 Graph -------");
