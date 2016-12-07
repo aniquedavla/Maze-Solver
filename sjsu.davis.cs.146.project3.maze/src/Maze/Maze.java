@@ -268,7 +268,7 @@ public class Maze {
 		short pathState; 	// the lower 4 bits of pathState indicate which
 							// paths to adjacent cells are open
 							// the upper 4 bits of pathState indicate whether
-							// adjacent cells exist
+							// adjacent cells are within the array bounds
 		
 		// Static Fields
 		

@@ -3,6 +3,8 @@ package Maze;
 public class EnumTest {
 	public static void main(String[] args)
 	{
-		Maze maze = new Maze(36,18);
+		System.out.println("maze");
+		Maze maze = new Maze(25,18);
+
 	}
 }
